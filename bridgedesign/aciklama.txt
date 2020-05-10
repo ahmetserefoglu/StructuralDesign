@@ -1,0 +1,15 @@
+Muzik sınıfımı oluşturduk,
+Spotify sınıfımızı oluştuduk,
+Hoparlor sınıfımızı oluşturduk
+Bilgisayar sınıfımızı oluşturduk.
+
+Buraya kadar bir sorun yok
+
+Kulaklıktaan dinlemeye karar verdik, Bunun için ne yapmam lazım spotify kulaklık classı sonra fizy hoparlor burada bir tasarımsal 
+yanlışlık var ,
+
+Burada Spotify, Fizy , Hoparlor ve Kulaklık her seferinde yeni bir nesne tanımlaması yapma ihtiyacı duymamanız gerekiyor.
+
+Soyutlama katmanına soyutlayın Fizy ve Spotify ,
+Aynı şekil hoparlor ve kulaklığı da soyutlayın,
+
